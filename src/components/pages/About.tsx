@@ -44,8 +44,8 @@ const About = () => {
           </span>
           <Connections />
           <a
-            href="/VamsiKrishna_Resume.pdf"
-            download="VamsiKrishna_Resume"
+            href="/AdhipBhattacharya_resume.pdf"
+            download="AdhipBhattacharya_resume"
             className="bg-primary hover:bg-border font-semibold text-xl text-primary-foreground hover:text-primary text-center px-4 py-2 rounded-lg"
           >
             Here&apos;s my Resume
