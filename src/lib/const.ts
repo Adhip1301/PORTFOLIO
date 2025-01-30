@@ -67,8 +67,8 @@ export const PROJECTS: Projects[] = [
     title: "Portfolio",
     description: "A place to Know about Adhip Bhattacharya",
     tech: "React, Next.JS, TypeScript, Tailwind",
-    gitLink: "https://github.com/CVamsi27/portfolio",
-    URL: "https://vamsi-krishna-portfolio.vercel.app",
+    gitLink: "https://github.com/Adhip1301/PORTFOLIO",
+    URL: "https://portfolio-adhip-bhattacharyas-projects.vercel.app/",
     image:"/images/Portfolio.png",
   },
 ];
